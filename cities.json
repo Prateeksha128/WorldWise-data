@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Gorodok",
+      "country": "Belarus",
+      "emoji": "🇧🇾",
+      "date": "2024-09-06T06:36:02.000Z",
+      "notes": "my new note",
+      "position": {
+        "lat": "55.55870293764458",
+        "lng": "30.366210937500004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Source-Seine",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-09-09T06:45:10.791Z",
+      "notes": "lop\n",
+      "position": {
+        "lat": "47.493093819657176",
+        "lng": "4.693705674888533"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Alwar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-09T11:43:41.139Z",
+      "notes": "my home🏠",
+      "position": {
+        "lat": "27.496874229340968",
+        "lng": "76.68643381593652"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Bharatpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-09T11:44:16.314Z",
+      "notes": "Nani's house🏡",
+      "position": {
+        "lat": "27.165114667332592",
+        "lng": "77.52142475617524"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Jaipur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-09T11:44:44.429Z",
+      "notes": "my next home",
+      "position": {
+        "lat": "26.9010605960031",
+        "lng": "75.82097653250037"
+      },
+      "id": 98443204
+    }
+  ]
+}
